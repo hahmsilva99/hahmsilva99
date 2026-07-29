@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Harshana+Madhuwantha+Silva;A+Full-Stack+Developer;AI+and+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <h3 align="center"> Full-Stack Developer | AI/ML Enthusiast | Innovative Content Creator </h3>
 
