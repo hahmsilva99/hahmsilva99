@@ -123,7 +123,11 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hahmsilva99&theme=radical)
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hahmsilva99&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</p>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
