@@ -133,10 +133,13 @@
 
 
 
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hahmsilva99&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="hahmsilva99 Trophies" />
-  </a>
+  <img src="https://img.shields.io/github/followers/hahmsilva99?label=Followers&style=for-the-badge&color=00BFFF&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/hahmsilva99?label=Stars&style=for-the-badge&color=00BFFF&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/repos/hahmsilva99?label=Repositories&style=for-the-badge&color=00BFFF&logo=github" alt="Repos" />
+  <img src="https://img.shields.io/github/commit-activity/y/hahmsilva99/hahmsilva99?label=Commit%20Activity&style=for-the-badge&color=00BFFF&logo=github" alt="Commits" />
 </p>
 
 
