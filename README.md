@@ -132,7 +132,10 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
 
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hahmsilva99&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hahmsilva99&show_icons=true&theme=react-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hahmsilva99&theme=react-dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
