@@ -129,11 +129,7 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
-
-
-
-<h2 align="center">📊 GitHub Stats</h2>
+---
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/hahmsilva99?label=Followers&style=for-the-badge&color=00BFFF&logo=github" alt="Followers" />
@@ -149,7 +145,7 @@
 
 <h2>🎯 Current Focus</h2>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Animated Developer" width="400">
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Animated Developer" width="400">
 
 - 🔭 **Working on:** Intelligent Customer Churn & Retention Engine
 - 🌱 **Learning:** Advanced Machine Learning, Microservices & Cloud Technologies
