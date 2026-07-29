@@ -132,10 +132,10 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hahmsilva99&show_icons=true&theme=react-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hahmsilva99&theme=react-dark&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hahmsilva99&show_icons=true&theme=react-dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=hahmsilva99&theme=react-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
