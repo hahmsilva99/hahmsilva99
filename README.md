@@ -132,9 +132,13 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hahmsilva99&theme=react-dark&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hahmsilva99&theme=react-dark)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hahmsilva99&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="hahmsilva99 Trophies" />
+  </a>
+</p>
+
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
