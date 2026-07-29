@@ -48,6 +48,64 @@
 
 </div>
 
+
+<h2>🎯 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🤖 AI-Powered CV Chatbot</h3>
+      <a href="#">
+        <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
+      </a>
+      <br /><br />
+      <b>Python • React • LlamaIndex • Pinecone</b>
+      <br /><br />
+      Intelligent resume analysis and ranking tool with automated data extraction and real-time AI-driven Q&A.
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🏛️ Eco-Adaptive Heritage Explorer</h3>
+      <a href="#">
+        <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
+      </a>
+      <br /><br />
+      <b>Predictive AI • Digital Twins • Data Modeling</b>
+      <br /><br />
+      Management system utilizing Predictive AI to monitor and mitigate structural fatigue in heritage sites caused by overtourism.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>📈 Customer Churn Engine</h3>
+      <a href="#">
+        <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
+      </a>
+      <br /><br />
+      <b>Python • XGBoost • Flask • Tailwind CSS</b>
+      <br /><br />
+      Predictive pipeline identifying customer churn with 95.31% accuracy, featuring a real-time risk assessment dashboard.
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🏋️ IGym Web Application</h3>
+      <a href="#">
+        <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
+      </a>
+      <br /><br />
+      <b>React.js • Tailwind CSS • MongoDB • MySQL</b>
+      <br /><br />
+      Scalable web application for fitness center management, focusing on seamless user experience and robust backend data handling.
+    </td>
+  </tr>
+</table>
+
+<br/>
+<p align="center">
+  <a href="https://github.com/hahmsilva99?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+  </a>
+</p>
+
+
 ### 📊 GitHub Stats:
 
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hahmsilva99&theme=radical)
