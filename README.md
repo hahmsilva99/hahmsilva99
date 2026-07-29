@@ -132,10 +132,12 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hahmsilva99&show_icons=true&theme=react-dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=hahmsilva99&theme=react-dark&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hahmsilva99&show_icons=true&theme=react-dark&hide_border=true&v=3)](https://github.com/hahmsilva99)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hahmsilva99&theme=react-dark&hide_border=true&v=3)](https://github.com/hahmsilva99)
+
+</div>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
