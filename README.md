@@ -156,6 +156,9 @@
 <br clear="all" />
 
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
+
+
 <h2 align="center">📫 Let's Connect!</h2>
 
 <p align="center">
