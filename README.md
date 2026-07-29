@@ -3,10 +3,12 @@
 </p>
 
 
+<h3 align="center"> Full-Stack Developer | AI/ML Enthusiast | Innovative Content Creator </h3>
+
+
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
 
-
-<h3 align="center"> Full-Stack Developer | AI/ML Enthusiast | Innovative Content Creator </h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/harshana-madhuwantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -18,6 +20,11 @@
 - 🌱 I’m currently diving deeper into **Predictive AI, Cloud Technologies (GCP), and Microservices**
 - 🎥 Beyond coding, I have a strong passion for **Digital Content Creation & YouTube Video Optimization**
 - 📫 How to reach me: **hahmsilva9963@gmail.com**
+
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
+
 
 ## 💻 Tech Arsenal
 
@@ -49,6 +56,9 @@
 </p>
 
 </div>
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
 
 
 <h2>🎯 Featured Projects</h2>
@@ -108,9 +118,16 @@
 </p>
 
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
+
+
 ### 📊 GitHub Stats:
 
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hahmsilva99&theme=radical)
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
+
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hahmsilva99&theme=radical)
 
