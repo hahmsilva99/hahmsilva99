@@ -29,10 +29,9 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hahmsilva99&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hahmsilva99&show_icons=true&theme=radical&v=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hahmsilva99&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hahmsilva99&layout=compact&theme=radical&v=1)
 <!--
 **hahmsilva99/hahmsilva99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
