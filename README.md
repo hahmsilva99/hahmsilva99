@@ -121,7 +121,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
 
 
-### 📊 GitHub Stats:
 
 <h2>📊 GitHub Stats</h2>
 
@@ -136,6 +135,20 @@
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hahmsilva99&theme=radical)
 
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
+
+
+<h2>🎯 Current Focus</h2>
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Animated Developer" width="400">
+
+- 🔭 **Working on:** Intelligent Customer Churn & Retention Engine
+- 🌱 **Learning:** Advanced Machine Learning, Microservices & Cloud Technologies
+- 👯 **Open to:** Collaborate on AI-driven solutions and full-stack web projects
+- 💼 **Seeking:** Software Engineering / AI Engineer opportunities
+- 📫 **Reach me:** [hahmsilva9963@gmail.com](mailto:hahmsilva9963@gmail.com)
+
+<br clear="all" />
 
 <!--
 **hahmsilva99/hahmsilva99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
