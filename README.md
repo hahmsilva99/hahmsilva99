@@ -6,13 +6,19 @@
 <h3 align="center"> Full-Stack Developer | AI/ML Enthusiast | Innovative Content Creator </h3>
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hahmsilva99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/hahmsilva99" target="_blank">
+    <img src="https://img.shields.io/badge/FOLLOW_@hahmsilva99-555555?style=flat&logo=github&logoColor=white" alt="Follow @hahmsilva99" />
+  </a>
+</p>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
 
 
-<p align="center">
-<a href="https://linkedin.com/in/harshana-madhuwantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+
 
 - 🎓 B.Sc. (Hons) in Computing and Information Systems graduate from **Sabaragamuwa University of Sri Lanka**
 - 💼 Experienced in developing intelligent systems like **AI-Powered CV Chatbots** and **Customer Churn Engines**
