@@ -3,9 +3,8 @@
 </p>
 
 
-<h3 align="center"> BSc (Hons) in Computing and Information Systems, 
-Sabaragamuwa University of Sri Lanka Graduate @ SUSL </h3>
-<h3 align="center"> Full-Stack Developer | AI/ML Enthusiast | Content Creator </h3>
+
+<h3 align="center"> Full-Stack Developer | AI/ML Enthusiast | Innovative Content Creator </h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/harshana-madhuwantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
