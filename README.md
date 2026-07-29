@@ -73,7 +73,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>🤖 AI-Powered CV Chatbot</h3>
-      <a href="#">
+      <a href="https://github.com/Bistec-SUSL-2024/CV_Chatbot">
         <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
       </a>
       <br /><br />
@@ -83,7 +83,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <h3>🏛️ Eco-Adaptive Heritage Explorer</h3>
-      <a href="#">
+      <a href="https://github.com/hahmsilva99/Heritage-AI-Adaptive-System">
         <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
       </a>
       <br /><br />
@@ -95,7 +95,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>📈 Customer Churn Engine</h3>
-      <a href="#">
+      <a href="https://github.com/hahmsilva99/churn-prediction-engine">
         <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
       </a>
       <br /><br />
@@ -105,7 +105,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <h3>🏋️ IGym Web Application</h3>
-      <a href="#">
+      <a href="https://github.com/AshanLakshitha16763/IGYM-Web-Application">
         <img src="https://img.shields.io/badge/CODE-000?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
       </a>
       <br /><br />
