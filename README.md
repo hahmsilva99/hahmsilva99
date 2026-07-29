@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Harshana Madhuwantha Silva</h1>
-<h3 align="center">A passionate Full-Stack Developer & AI/ML Enthusiast from Sri Lanka 🇱🇰</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Harshana+Madhuwantha;A+Full-Stack+Developer;An+AI%2FML+Enthusiast" alt="Typing SVG" />
+</p>
 
 <p align="center">
 <a href="https://linkedin.com/in/harshana-madhuwantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
