@@ -3,7 +3,7 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="5">
 
 
 <h3 align="center"> Full-Stack Developer | AI/ML Enthusiast | Innovative Content Creator </h3>
