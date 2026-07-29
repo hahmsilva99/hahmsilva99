@@ -155,6 +155,43 @@
 
 <br clear="all" />
 
+
+<h2 align="center">📫 Let's Connect!</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/harshana-madhuwantha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:hahmsilva9963@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/hahmsilva99" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <b>💭 "Work smart, stay passionate, embrace every challenge"</b>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aungku-oo/aungku-oo/main/assets/pacman.gif" alt="Pacman Divider" width="100%">
+</p>
+
+<p align="center">
+  Show some ❤️ by starring some of my repositories!
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer" width="100%"/>
+
+
 <!--
 **hahmsilva99/hahmsilva99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
